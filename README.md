@@ -1,3 +1,2 @@
-### 
-<h1> Hi there 👋, i’m a Javascript Programmer, I build things for the web.</h1>
+<h1> Hi there 👋, <br/> i’m a Javascript Programmer, <br/>I build things for the web.</h1>
 
