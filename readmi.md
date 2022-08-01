@@ -1,1 +1,0 @@
-<h1> Hello, i’m a Javascript Developer, I build things for the web.</h1>
