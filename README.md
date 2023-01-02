@@ -3,5 +3,5 @@
 <p> Currently learning Go-Lang </p>
 
 <p>Get in touch:</p>
-<p> ig: <a href="https://www.instagram.com/arhamymr">@arhamymr </a> </p>
-<p> mail: <a href="mailto:arhamymr@gmail.com">arhamymr@gmail.com </a> </p>
+<p> ig: <a href="https://www.instagram.com/arhamymr">@arhamymr </a> <br/>
+ mail: <a href="mailto:arhamymr@gmail.com">arhamymr@gmail.com </a> </p>
