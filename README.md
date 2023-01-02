@@ -2,5 +2,6 @@
 
 <p> Currently learning Go-Lang </p>
 
-<p><b> Get in touch: </b></p>
-<a href="https://www.instagram.com/arhamymr"> Ig @arhamymr </a>
+<p>Get in touch:</p>
+<p> ig: <a href="https://www.instagram.com/arhamymr">@arhamymr </a> </p>
+<p> mail: <a href="mailto:arhamymr@gmail.com">arhamymr@gmail.com </a> </p>
