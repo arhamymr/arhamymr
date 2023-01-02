@@ -1,4 +1,4 @@
-<p> Hi there 👋 <br/>i’m using javascript/typescript<br/>i build things for the web</p>
+<p> Hi there 👋 <br/>javascript/typescript<br/>i build things for the web</p>
 
 <p> Currently learning Go-Lang </p>
 
