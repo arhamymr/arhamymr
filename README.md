@@ -3,5 +3,5 @@
 <p> Currently learning Go-Lang and Nest.js </p>
 
 <p>Get in touch:</p>
-<p> ig: <a href="https://www.instagram.com/arhamymr">@arhamymr </a> <br/>
- mail: <a href="mailto:arhamymr@gmail.com">arhamymr@gmail.com </a> </p>
+<p> ig: <a href="https://www.instagram.com/arhamymr"  target="_blank">@arhamymr </a> <br/>
+ linkedin: <a href="https://www.linkedin.com/in/arhamymr/" target="_blank">arham</a> </p>
