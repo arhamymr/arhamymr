@@ -4,4 +4,3 @@
 
 <p>Get in touch:</p>
 <p> ig: <a href="https://www.instagram.com/arhamymr"  target="_blank">@arhamymr </a> <br/>
- linkedin: <a href="https://www.linkedin.com/in/arhamymr/" target="_blank">arham</a> </p>
